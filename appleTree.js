@@ -9,7 +9,7 @@ class AppleTree {
         this._fruits = [];
         this.harvested = '';
         this._healthStatus = treeHealthStatus;
-        this._MatrueAge = treeMatrueAge;;
+        this._MatrueAge = treeMatrueAge;
         this._limitAge = treeLimitAge;
         this._stopAge = treeStopAge;
     }
